@@ -1,0 +1,21 @@
+{
+  "name": "gradie-sign-up-page",
+  "version": "1.0.0",
+  "description": "a challenge from codewell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Nicolas Codonho Scorpelini",
+  "license": "MIT",
+  "devDependencies": {
+    "csswring": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.3.6"
+  }
+}
